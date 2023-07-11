@@ -5,7 +5,7 @@
 <body>
     <?php include 'include/menu.php' ?>
     <div class="preLoader black">
-        <img src="images/logo.png" alt="img">
+        <img src="images/newlogo.png" alt="img">
     </div>
     <div class="preLoader white"></div>
 
