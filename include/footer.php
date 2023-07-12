@@ -68,7 +68,7 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-md-2">
-                <a href="#" class="footLogo"><img src="images/footLogo.png" class="img-fluid" alt=""></a>
+                <a href="#" class="footLogo"><img src="images/newlogo.png" class="img-fluid" alt=""></a>
             </div>
             <div class="col-md-2">
                 <h3>Quick Links:</h3>
@@ -84,6 +84,7 @@
                 <ul class="links">
                     <li><a href="blog.php">Blog</a></li>
                     <li><a href="testimonial.php">Testimonials</a></li>
+                    <li><a href="online-estimation.php">Online Estimation</a></li>
                     <li><a href="contact.php">Connect</a></li>
                 </ul>
             </div>

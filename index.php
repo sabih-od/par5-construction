@@ -77,8 +77,9 @@
             <div class="row align-items-center">
                 <div class="col-md-5" data-aos="fade-up">
                     <div class="aboutHead">
-                        <h2><span>About</span>Par5</h2>
-                        <h3 class="secHeading">Construction</h3>
+                        <img src="images/newlogo.png" class="img-fluid" alt="">
+                        <!-- <h2><span>About</span>Par5</h2>
+                        <h3 class="secHeading">Construction</h3> -->
                     </div>
                 </div>
                 <div class="col-md-7">
@@ -419,6 +420,6 @@
         </div>
     </section>
 
-    
+
 
     <?php include 'include/footer.php' ?>

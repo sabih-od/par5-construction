@@ -22,16 +22,17 @@
     <section class="aboutSec aboutInner">
         <div class="container">
             <div class="row align-items-end">
-                <div class="col-md-5" data-aos="fade-up">
+                <div class="col-md-12" data-aos="fade-up">
                     <div class="aboutHead">
-                        <h2><span>About</span>Par5</h2>
+                        <!-- <h2><span>About</span>Par5</h2> -->
+                        <img src="images/newlogo.png" class="img-fluid" alt="">
                     </div>
                 </div>
-                <div class="col-md-7">
+                <!-- <div class="col-md-7">
                     <div class="aboutPara" data-aos="fade-up">
                         <h3 class="subHeading p-0">Construction</h3>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="row">
                 <div class="col-md-5" data-aos="fade-up">
@@ -129,7 +130,8 @@
                 </div>
                 <div class="col-md-7">
                     <div class="abtText">
-                        <h3 class="secHeading">Par5 Construction</h3>
+                        <!-- <h3 class="secHeading">Par5 Construction</h3> -->
+                        <img src="images/newlogo.png" class="img-fluid" alt="">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
                             been the industry's standard dummy text ever since the 1500s, when an unknown printer took a
                             galley of type and scrambled it to make a type specimen book. It has survived not only five

@@ -35,11 +35,14 @@
                                 <a class="nav-link" href="testimonial.php">Testimonials</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="online-estimation.php">Online Estimation</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link" href="contact.php">Connect</a>
                             </li>
                         </ul>
                         <div class="form-inline">
-                            <a href="#"><img src="images/call.png" class="img-fluid" alt="">
+                            <a href="#"><img src="images/calls.png" class="img-fluid" alt="">
                                 <div>call Now<span>012-345-67890</span></div>
                             </a>
                         </div>
