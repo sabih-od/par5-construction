@@ -72,6 +72,106 @@
         <img src="images/bannerBar.png" class="img-fluid bannerPath" alt="">
     </section>
 
+    <section class="largeProject">
+        <div class="container">
+            <div class="largeHead">
+                <h2>Turn your large project into an affordable monthly payment</h2>
+                <p>Use our calculator to estimate what your monthly payment will be.</p>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="afordableBox">
+                        <div class="moveSlide">
+                            <h3>Amount</h3>
+                            <label>Move slider to select amount</label>
+                            <div class="priceBox">
+                                <div class="price-input">
+                                    <div class="field">
+                                        <span id="min1">5,000</span>
+                                    </div>
+                                </div>
+                                <div class="range-input">
+                                    <input type="range" class="range-min" min="500" max="200000" value="5000" step="500"
+                                        oninput="priceSelct(this, 'min1')" onchange="priceSelct(this, 'min1')">
+                                </div>
+                                <div class="field">
+                                    <input type="number" class="input-min" value="500">
+                                    <input type="number" class="input-max" value="20000">
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="moveSlide">
+                            <h3>APR</h3>
+                            <label>Move slider to select APR</label>
+                            <div class="priceBox">
+                                <div class="price-input">
+                                    <div class="field">
+                                        <span id="min">6</span>
+                                    </div>
+                                </div>
+                                <div class="range-input">
+                                    <input type="range" class="range-min" min="0" max="100" value="6" step="1"
+                                        oninput="priceSelct(this, 'min')" onchange="priceSelct(this, 'min')">
+                                </div>
+                                <div class="field">
+                                    <input type="number" class="input-min" value="0">
+                                    <input type="number" class="input-max" value="100">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="moveSlide">
+                            <h3>Financing term</h3>
+                            <label>In years</label>
+                            <div class="priceBox">
+                                <div class="price-input">
+                                    <div class="field">
+                                        <span id="min2">5</span>
+                                    </div>
+                                </div>
+                                <div class="range-input">
+                                    <input type="range" class="range-min" min="1" max="12" value="5" step="1"
+                                        oninput="priceSelct(this, 'min2')" onchange="priceSelct(this, 'min2')">
+                                </div>
+                                <div class="field">
+                                    <input type="number" class="input-min" value="1">
+                                    <input type="number" class="input-max" value="12">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="total">
+                        <div class="estimatePay">
+                            <label>Estimated min. monthly payment**</label>
+                            <span>$1,517.62</span>
+                        </div>
+                        <div class="totalAmount">
+                            <ul>
+                                <li>Total Amount</li>
+                                <li><img src="images/vs.png" class="img-fluid" alt="img"></li>
+                                <li>
+                                    <span>Monthly Payment</span>
+                                    <div class="amountFinal">
+                                        $1,517.62
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="proDone">Get your project done without spending all your cash</div>
+                        <div class="personalize">
+                            See Your Personalized Offers
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <section class="aboutSec">
         <div class="container">
             <div class="row align-items-center">
